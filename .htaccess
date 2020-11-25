@@ -1,3 +1,4 @@
+php_flag magic_quotes_gpc Off
 # Only set these if PHP 5 is loaded as an apache module
 <IfModule mod_php5.c>
 php_flag magic_quotes_gpc Off
